@@ -1,0 +1,26 @@
+{
+  "name": "notarbot-telegram",
+  "version": "0.0.1",
+  "description": "This is a Telegram Bot to notarize documents with [opentimestamp](https://github.com/opentimestamps/).",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "fiblan",
+  "license": "ISC",
+  "dependencies": {
+    "javascript-opentimestamps": "^0.2.4",
+    "telegraf": "^3.15.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bauso/notarbot-telegram.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bauso/notarbot-telegram/issues"
+  },
+  "homepage": "https://github.com/bauso/notarbot-telegram#readme"
+}
