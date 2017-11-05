@@ -11,7 +11,7 @@ This is a Telegram Bot to notarize documents with [opentimestamp](https://github
 ```
  2. run yourbot:
 ```bash
- BOT_TOKEN:110201543:AAHdqTcvCH1vGWJxfSeofSAs0K5PALDsaw  node start
+ BOT_TOKEN:110201543:AAHdqTcvCH1vGWJxfSeofSAs0K5PALDsaw npm start
 ```
  3. now you can send files to your bot
 
